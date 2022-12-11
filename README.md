@@ -30,3 +30,7 @@ To understand you have to know some basic concepts which you can find around a b
 </table><br>
 
 I use Pytorch as library. The self-made classes serves to improve understanding. These are limited to the basic functionality and are to be seen as excerpts from the library classes.
+
+## The math notebook
+
+It's under heavy freaky stimulating endless development status. I only added it up to play with git...
