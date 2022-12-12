@@ -31,3 +31,6 @@ To understand you have to know some basic concepts which you can find around a b
 
 I use Pytorch as library. The self-made classes serves to improve understanding. These are limited to the basic functionality and are to be seen as excerpts from the library classes.
 
+## The Backpropagation Notebook
+
+I explain myself the backpropagation of errors - with implementation, some fancy drawings and understandable math.
