@@ -2,7 +2,7 @@
 
 A small collection of notebooks around artificial intelligence.
 
-## SnippetPearls
+## Snippet Pearls
 This is a jupyter notebook with several and I hope useful
 code snippets around very interesting technologies. Optimized for google colab.
 
@@ -18,7 +18,7 @@ code snippets around very interesting technologies. Optimized for google colab.
 <tr><td>and some more</td><td>usefull snippets to discover.</td></tr>
 </table>
 
-## NeuralNetworkNotebook
+## The Neural Network Notebook
 
 This is a little cheat sheet to describe the essence of what is called a (**feed forward**) **neural network**.
 
@@ -31,6 +31,3 @@ To understand you have to know some basic concepts which you can find around a b
 
 I use Pytorch as library. The self-made classes serves to improve understanding. These are limited to the basic functionality and are to be seen as excerpts from the library classes.
 
-## The math notebook
-
-It's under heavy freaky stimulating endless development status. I only added it up to play with git...
