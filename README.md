@@ -18,18 +18,6 @@ code snippets around very interesting technologies. Optimized for google colab.
 <tr><td>and some more</td><td>usefull snippets to discover.</td></tr>
 </table>
 
-## The Neural Network Notebook
-
-This is a little cheat sheet to describe the essence of what is called a (**feed forward**) **neural network**.
-
-To understand you have to know some basic concepts which you can find around a bunch of keywords - these are the most important: 
-
-<table width='600'>
-<tr><td><p><b>Perceptron<br><br>Parameter</td><td><p><b>Data<br><br>Batches</td><td><p><b>Layer<br><br>Model</td><td><p><b>Training<br><br>Optimizer</td><td><p><b>Loss<br><br>Metric</td></tr>
-<tr><td colspan=5><font size='-5'>In the following, further <b>keywords</b> are shown in bold type.</font></td></tr>
-</table><br>
-
-I use Pytorch as library. The self-made classes serves to improve understanding. These are limited to the basic functionality and are to be seen as excerpts from the library classes.
 
 ## The Backpropagation Notebook
 
