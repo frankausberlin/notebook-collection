@@ -17,3 +17,10 @@ code snippets around very interesting technologies. Optimized for google colab.
 ## The Backpropagation Notebook
 
 I explain myself the backpropagation of errors - with implementation, some fancy drawings and understandable math.
+
+
+## The OpenAI Notebook
+
+* This notebook is my [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging) for the OpenAI stuff and you should use it with google colab.
+* It contains accompanying material for the DLAI [prompt engineering course](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - currently free (06/05/2023) for a limited time.
+* And some tools using the API.
