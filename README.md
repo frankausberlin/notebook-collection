@@ -7,6 +7,7 @@ This is a jupyter notebook with several and I hope useful
 code snippets around very interesting technologies. Optimized for google colab.
 
 <table>
+<tr><td>chat gpt</td><td>A little gui for chat gpt with yaml persistence and gdrive support.</td></tr>
 <tr><td>command shell</td><td>A snippet that uses jQuery Terminal in code cell output.</td></tr>
 <tr><td>image search</td><td>This little snippet does a picture search with DuckDuckGo.</td></tr>
 <tr><td>video snippets</td><td>youtube, stream + take picture, record video</td></tr>
